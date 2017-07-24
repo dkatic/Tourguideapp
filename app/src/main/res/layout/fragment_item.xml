@@ -1,0 +1,43 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp"
+    tools:context="com.example.david.tourguideapp.EatDrinkFragment">
+
+    <ImageView
+        android:id="@+id/image_view"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:scaleType="fitCenter"
+        android:src="@mipmap/ic_launcher" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/name_text_view"
+            style="@style/TextView"
+            android:text="name_text_view" />
+
+        <TextView
+            android:id="@+id/address_text_view"
+            style="@style/TextView2"
+            android:text="address_text_view"
+            />
+
+        <TextView
+            android:id="@+id/opening_hours_text_view"
+            style="@style/TextView2"
+            android:text="opening_hours_text_view" />
+
+        <TextView
+            android:id="@+id/description_text_view"
+            style="@style/TextView2"
+            android:text="description_text_view" />
+    </LinearLayout>
+
+</LinearLayout>

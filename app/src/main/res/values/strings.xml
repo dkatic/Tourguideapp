@@ -1,3 +1,116 @@
 <resources>
-    <string name="app_name">Tour guide app</string>
+    <string name="app_name">TourGuide - Zagreb</string>
+
+    <string name="events">Events</string>
+    <string name="eat_and_drink">Eat/Drinks</string>
+    <string name="hotels">Hotels</string>
+    <string name="museums">Museums</string>
+
+    <!-- Events -->
+    <string name="events_name_1"></string>
+    <string name="events_address_1"></string>
+    <string name="events_opening_hours_1"></string>
+    <string name="events_description_1"></string>
+
+    <string name="events_name_2"></string>
+    <string name="events_address_2"></string>
+    <string name="events_opening_hours_2"></string>
+    <string name="events_description_2"></string>
+
+    <string name="events_name_3"></string>
+    <string name="events_address_3"></string>
+    <string name="events_opening_hours_3"></string>
+    <string name="events_description_3"></string>
+
+    <string name="events_name_4"></string>
+    <string name="events_address_4"></string>
+    <string name="events_opening_hours_4"></string>
+    <string name="events_description_4"></string>
+
+    <string name="events_name_5"></string>
+    <string name="events_address_5"></string>
+    <string name="events_opening_hours_5"></string>
+    <string name="events_description_5"></string>
+
+    <!-- Eat and Drink -->
+
+    <string name="eat_and_drink_name_1"></string>
+    <string name="eat_and_drink_address_1"></string>
+    <string name="eat_and_drink_opening_hours_1"></string>
+    <string name="eat_and_drink_description_1"></string>
+
+    <string name="eat_and_drink_name_2"></string>
+    <string name="eat_and_drink_address_2"></string>
+    <string name="eat_and_drink_opening_hours_2"></string>
+    <string name="eat_and_drink_description_2"></string>
+
+    <string name="eat_and_drink_name_3"></string>
+    <string name="eat_and_drink_address_3"></string>
+    <string name="eat_and_drink_opening_hours_3"></string>
+    <string name="eat_and_drink_description_3"></string>
+
+    <string name="eat_and_drink_name_4"></string>
+    <string name="eat_and_drink_address_4"></string>
+    <string name="eat_and_drink_opening_hours_4"></string>
+    <string name="eat_and_drink_description_4"></string>
+
+    <string name="eat_and_drink_name_5"></string>
+    <string name="eat_and_drink_address_5"></string>
+    <string name="eat_and_drink_opening_hours_5"></string>
+    <string name="eat_and_drink_description_5"></string>
+
+    <!-- Hotels -->
+
+    <string name="hotels_name_1"></string>
+    <string name="hotels_address_1"></string>
+    <string name="hotels_opening_hours_1"></string>
+    <string name="hotels_description_1"></string>
+
+    <string name="hotels_name_2"></string>
+    <string name="hotels_address_2"></string>
+    <string name="hotels_opening_hours_2"></string>
+    <string name="hotels_description_2"></string>
+
+    <string name="hotels_name_3"></string>
+    <string name="hotels_address_3"></string>
+    <string name="hotels_opening_hours_3"></string>
+    <string name="hotels_description_3"></string>
+
+    <string name="hotels_name_4"></string>
+    <string name="hotels_address_4"></string>
+    <string name="hotels_opening_hours_4"></string>
+    <string name="hotels_description_4"></string>
+
+    <string name="hotels_name_5"></string>
+    <string name="hotels_address_5"></string>
+    <string name="hotels_opening_hours_5"></string>
+    <string name="hotels_description_5"></string>
+
+    <!-- Museums -->
+
+    <string name="museums_name_1"></string>
+    <string name="museums_address_1"></string>
+    <string name="museums_opening_hours_1"></string>
+    <string name="museums_description_1"></string>
+
+    <string name="museums_name_2"></string>
+    <string name="museums_address_2"></string>
+    <string name="museums_opening_hours_2"></string>
+    <string name="museums_description_2"></string>
+
+    <string name="museums_name_3"></string>
+    <string name="museums_address_3"></string>
+    <string name="museums_opening_hours_3"></string>
+    <string name="museums_description_3"></string>
+
+    <string name="museums_name_4"></string>
+    <string name="museums_address_4"></string>
+    <string name="museums_opening_hours_4"></string>
+    <string name="museums_description_4"></string>
+
+    <string name="museums_name_5"></string>
+    <string name="museums_address_5"></string>
+    <string name="museums_opening_hours_5"></string>
+    <string name="museums_description_5"></string>
+
 </resources>
