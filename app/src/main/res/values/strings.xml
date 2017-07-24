@@ -7,110 +7,111 @@
     <string name="museums">Museums</string>
 
     <!-- Events -->
-    <string name="events_name_1"></string>
-    <string name="events_address_1"></string>
-    <string name="events_opening_hours_1"></string>
-    <string name="events_description_1"></string>
+    <string name="events_name_1">Strossmartre 2017</string>
+    <string name="events_address_1">Strossmayerovo šetalište</string>
+    <string name="events_date_1">15.05. - 17.09.</string>
+    <string name="events_description_1">Na zagrebačkom gornjogradskom Strossmayerovu šetalištu, podno kule Lotrščak i ove godine Zagrepčane i njihove goste svakog dana očekuje pregršt događanja i zabave, jer 19. svibnja započinje 15. Ljeto na Štrosu! </string>
 
-    <string name="events_name_2"></string>
-    <string name="events_address_2"></string>
-    <string name="events_opening_hours_2"></string>
-    <string name="events_description_2"></string>
+    <string name="events_name_2">The Dillinger Escape Plan</string>
+    <string name="events_address_2">Trnjanski nasip bb</string>
+    <string name="events_date_2">12.08.2017</string>
+    <string name="events_description_2">The Dillinger Escape Plan, jedan od najvećih i najutjecajnijih američkih nezavisnih bendova, potpisnici možda i najboljeg zagrebačkog koncerta posljednjih godina, nastupit će 18. veljače 2017. godine u sklopu svoje oproštajne turneje u klubu Mochvara.</string>
 
-    <string name="events_name_3"></string>
-    <string name="events_address_3"></string>
-    <string name="events_opening_hours_3"></string>
-    <string name="events_description_3"></string>
+    <string name="events_name_3">The Kills</string>
+    <string name="events_address_3">Šubićeva 2</string>
+    <string name="events_date_3">19.08.2017</string>
+    <string name="events_description_3">Alison Mosshart i Jamie Hince zajedno pod imenom The Kills nastupaju od 2000. godine i dosad su objavili pet studijskih albuma, od kojih posljednji sjajni Ash i Ice datira iz 2016. godine.</string>
 
-    <string name="events_name_4"></string>
-    <string name="events_address_4"></string>
-    <string name="events_opening_hours_4"></string>
-    <string name="events_description_4"></string>
+    <string name="events_name_4">Thrash metalci Oozing Wound</string>
+    <string name="events_address_4">Trnjanski nasip bb</string>
+    <string name="events_date_4">29.08.2017</string>
+    <string name="events_description_4">Ako famozni Chicago Reader odgovorno tvrdi da je Oozing Wound trash najbolji metal bend hladnog grada Chicaga u 2017. godini, tko smo mi da u tu vijest posumnjamo?</string>
 
-    <string name="events_name_5"></string>
-    <string name="events_address_5"></string>
-    <string name="events_opening_hours_5"></string>
-    <string name="events_description_5"></string>
+    <string name="events_name_5">Duran duran</string>
+    <string name="events_address_5">Schlosserove stube 2</string>
+    <string name="events_date_5">29.08.2017</string>
+    <string name="events_description_5">Duran Duran bez sumnje su jedan od najvećih mainstream bendova i glazbena institucija koja je iznjedrila neke od najvećih pop hitova svih vremena. 35 godina duga karijera, 14 studijskih albuma i preko 100 milijuna prodanih ploča diljem svijeta te nebrojeno nagrada označili su Duran Duran jednim od najprepoznatljivijih bendova našeg doba.</string>
 
     <!-- Eat and Drink -->
 
-    <string name="eat_and_drink_name_1"></string>
-    <string name="eat_and_drink_address_1"></string>
-    <string name="eat_and_drink_opening_hours_1"></string>
-    <string name="eat_and_drink_description_1"></string>
+    <string name="eat_and_drink_name_1">California Burrito bar</string>
+    <string name="eat_and_drink_address_1">Gajeva 8</string>
+    <string name="eat_and_drink_opening_hours_1">11:00 - 23:00</string>
+    <string name="eat_and_drink_description_1">Burritosi, fajite, tacosi, wrapovi i quesadille i dalje su glavne zvijezde menija, a osim u kombinaciji s piletinom i svinjetinom, sada dolaze i u varijanti s junetinom. U ponudi je i tofu, ali i gluten free opcije s kukuruznim tortiljama u pojedinim jelima.</string>
 
-    <string name="eat_and_drink_name_2"></string>
-    <string name="eat_and_drink_address_2"></string>
-    <string name="eat_and_drink_opening_hours_2"></string>
-    <string name="eat_and_drink_description_2"></string>
+    <string name="eat_and_drink_name_2">Taco\'s i Burger Barr</string>
+    <string name="eat_and_drink_address_2">Jurišićeva 2a</string>
+    <string name="eat_and_drink_opening_hours_2">16:00 - 23:00</string>
+    <string name="eat_and_drink_description_2">Iza jednostavnog imena Taco\'s i Burger Barr krije se restoran s jedinstvenim i maštovitim menijem, prvim takvim u na ovim prostorima.</string>
 
-    <string name="eat_and_drink_name_3"></string>
-    <string name="eat_and_drink_address_3"></string>
-    <string name="eat_and_drink_opening_hours_3"></string>
-    <string name="eat_and_drink_description_3"></string>
+    <string name="eat_and_drink_name_3">Corner Bar</string>
+    <string name="eat_and_drink_address_3">Ulica Augusta Cesarca 4</string>
+    <string name="eat_and_drink_opening_hours_3">07:00-00:00</string>
+    <string name="eat_and_drink_description_3">Ako želite doživjeti nešto drukčije i posebno, svakako posjetite Corner bar. Kava koju vam nudimo raste u Etiopiji, kolijevci kave, i ne može se pronaći nigdje drugdje.</string>
 
-    <string name="eat_and_drink_name_4"></string>
-    <string name="eat_and_drink_address_4"></string>
-    <string name="eat_and_drink_opening_hours_4"></string>
-    <string name="eat_and_drink_description_4"></string>
+    <string name="eat_and_drink_name_4">Johann Franck</string>
+    <string name="eat_and_drink_address_4">Trg bana Josipa Jelačića 9</string>
+    <string name="eat_and_drink_opening_hours_4">08:00-02:00</string>
+    <string name="eat_and_drink_description_4">Johann Franck je mjesto na kojem preko dana možete popiti ukusnu kavu, kušati jela od svježe pripremljenih namirnica s obližnjeg Dolca tržnice te mjesto u kojem se u večernjim satima možete opustiti uz zabavni sadržaj</string>
 
-    <string name="eat_and_drink_name_5"></string>
-    <string name="eat_and_drink_address_5"></string>
-    <string name="eat_and_drink_opening_hours_5"></string>
-    <string name="eat_and_drink_description_5"></string>
+    <string name="eat_and_drink_name_5">Tvornica kulture</string>
+    <string name="eat_and_drink_address_5">Šubićeva 2</string>
+    <string name="eat_and_drink_opening_hours_5">08:00 - 23:00</string>
+    <string name="eat_and_drink_description_5">	Tvornica kulture otvorena je u rujnu 1999. godine . Klub je otvoren za nove ideje i pokrete u rasponu od kazališnih i plesnih predstava te performancea, do filmskih projekcija i koncerata.</string>
 
     <!-- Hotels -->
 
-    <string name="hotels_name_1"></string>
-    <string name="hotels_address_1"></string>
-    <string name="hotels_opening_hours_1"></string>
-    <string name="hotels_description_1"></string>
+    <string name="hotels_name_1">Hotel Sheraton *****</string>
+    <string name="hotels_address_1">Ulica kneza Borne 2</string>
+    <string name="hotels_opening_hours_1">24/7</string>
+    <string name="hotels_description_1">Hotel Sheraton Zagreb je de luxe kategorije i u sastavu je istoimenog hotelskog lanca Sheraton.</string>
 
-    <string name="hotels_name_2"></string>
-    <string name="hotels_address_2"></string>
-    <string name="hotels_opening_hours_2"></string>
-    <string name="hotels_description_2"></string>
+    <string name="hotels_name_2">Hotel Esplanade *****</string>
+    <string name="hotels_address_2">Ulica Antuna Mihanovića 1</string>
+    <string name="hotels_opening_hours_2">24/7</string>
+    <string name="hotels_description_2">Hotel Esplanade je jedan od najprestižnijih zagrebački hotela. Zgrada hotela sagrađena je 1925. godine uz zagrebački Glavni željeznički kolodvor, s ciljem pružanja vrhunskog smještaja i usluga putnicima glasovitog vlaka Orient Express koji je prometovao na linij Pariz - Zagreb - Istanbul.</string>
 
-    <string name="hotels_name_3"></string>
-    <string name="hotels_address_3"></string>
-    <string name="hotels_opening_hours_3"></string>
-    <string name="hotels_description_3"></string>
+    <string name="hotels_name_3">Hotel the Westin *****</string>
+    <string name="hotels_address_3">Ulica Izidora Kršnjavoga 1</string>
+    <string name="hotels_opening_hours_3">24/7</string>
+    <string name="hotels_description_3">Hotel Westin je vrhunski hotel smješten u samom središtu Zagreba koji svojim gostima nudi jedinstven doživljaj i vrhunsku uslugu - osmišljenu da ugodi svakom gostu.</string>
 
-    <string name="hotels_name_4"></string>
-    <string name="hotels_address_4"></string>
-    <string name="hotels_opening_hours_4"></string>
-    <string name="hotels_description_4"></string>
+    <string name="hotels_name_4">Hotel International ****</string>
+    <string name="hotels_address_4">Miramarska 24</string>
+    <string name="hotels_opening_hours_4">24/7</string>
+    <string name="hotels_description_4">Hotel International smješten je u samom centru poslovne zone grada, vrhunski je izbor za smještaj poslovnih gostiju kao i onih koji turistički posjećuju Zagreb.</string>
 
-    <string name="hotels_name_5"></string>
-    <string name="hotels_address_5"></string>
-    <string name="hotels_opening_hours_5"></string>
-    <string name="hotels_description_5"></string>
+    <string name="hotels_name_5">Hotel President ****</string>
+    <string name="hotels_address_5">Pantovčak 52</string>
+    <string name="hotels_opening_hours_5">24/7</string>
+    <string name="hotels_description_5">Hotel President na Pantovčaku, sa svojim profinjenim dizajnom, gostima pruža privatnost, intimu i udobnost. Hotel je opremljen pomno biranim namještajem i umjetničkim radovima eminentnih svjetskih umjetnika.</string>
 
     <!-- Museums -->
 
-    <string name="museums_name_1"></string>
-    <string name="museums_address_1"></string>
-    <string name="museums_opening_hours_1"></string>
-    <string name="museums_description_1"></string>
+    <string name="museums_name_1">Tehnički muzej Nikola Tesla</string>
+    <string name="museums_address_1">Savska cesta 18</string>
+    <string name="museums_opening_hours_1">14.30 - 22:00</string>
+    <string name="museums_description_1">Tehnički muzej osnovan je 1954. godine. Fundus muzeja čini više od 6000 predmeta iz naše zemlje i inozemstva. Stari auti, avioni, vlakovi, podmornica, tramvaj, ..
+        Zasebne cjeline muzeja čine Planetarij, Apisarij, Rudnik (model rudnika ugljena, željeza i obojenih metala u dužini oko 300 metara) i Kabinet Nikole Tesle.</string>
 
-    <string name="museums_name_2"></string>
-    <string name="museums_address_2"></string>
-    <string name="museums_opening_hours_2"></string>
-    <string name="museums_description_2"></string>
+    <string name="museums_name_2">Muzej iluzija</string>
+    <string name="museums_address_2">Ilica 72, Donji grad</string>
+    <string name="museums_opening_hours_2">9:00 - 22:00</string>
+    <string name="museums_description_2">Uđite u fascinantni svijet iluzija koje će vam poljuljati povjerenje u vaša osjetila, ali vas pritom oduševiti, .. Svijet koji će vas potpuno zbuniti, ali vas i štošta naučiti .. Jer ništa nije onakvo kakvim se čini, osobito ne u Muzeju iluzija!</string>
 
-    <string name="museums_name_3"></string>
-    <string name="museums_address_3"></string>
-    <string name="museums_opening_hours_3"></string>
-    <string name="museums_description_3"></string>
+    <string name="museums_name_3">Muzej suvremene umjetnosti</string>
+    <string name="museums_address_3">Avenija Dubrovnik 17, Središće</string>
+    <string name="museums_opening_hours_3">11:00 - 18:00</string>
+    <string name="museums_description_3">U zbirkama Muzeja suvremene umjetnosti danas se nalazi oko 12.000 djela suvremene umjetnosti, radova domaćih i inozemnih autora nastalih nakon 1950. godine.</string>
 
-    <string name="museums_name_4"></string>
-    <string name="museums_address_4"></string>
-    <string name="museums_opening_hours_4"></string>
-    <string name="museums_description_4"></string>
+    <string name="museums_name_4">Muzej prekinutih veza</string>
+    <string name="museums_address_4">Sv. Ćirila i Metoda 2, Gornji grad</string>
+    <string name="museums_opening_hours_4">9:00 - 22:30</string>
+    <string name="museums_description_4">Muzej prekinutih veza se sastoji od predmeta koji su preostali nakon završenih ljubavnih veza.</string>
 
-    <string name="museums_name_5"></string>
-    <string name="museums_address_5"></string>
-    <string name="museums_opening_hours_5"></string>
-    <string name="museums_description_5"></string>
+    <string name="museums_name_5">Hrvatski muzej arhitekture</string>
+    <string name="museums_address_5">Ulica Ivana Gorana Kovačića 37</string>
+    <string name="museums_opening_hours_5">9:00 - 22:00</string>
+    <string name="museums_description_5">Hrvatski muzej arhitekture osnovan je 1995. godine na inicijativu Kabineta za arhitekturu i urbanizam HAZU.</string>
 
 </resources>
