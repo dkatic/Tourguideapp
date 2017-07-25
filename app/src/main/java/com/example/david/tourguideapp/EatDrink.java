@@ -33,32 +33,16 @@ public class EatDrink {
         return mAddress;
     }
 
-    public void setAddress(String mAddress) {
-        this.mAddress = mAddress;
-    }
-
     public String getOpeningHours() {
         return mOpeningHours;
-    }
-
-    public void setOpeningHours(String mOpeningHours) {
-        this.mOpeningHours = mOpeningHours;
     }
 
     public String getDescription() {
         return mDescription;
     }
 
-    public void setDescription(String mDescription) {
-        this.mDescription = mDescription;
-    }
-
     public int getImageResourceId() {
         return mImageResourceId;
-    }
-
-    public void setImageResourceId(int mImageResourceId) {
-        this.mImageResourceId = mImageResourceId;
     }
 
     public boolean hasImage() {

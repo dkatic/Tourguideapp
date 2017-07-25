@@ -15,7 +15,7 @@ public class EventsFragment extends Fragment {
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-        View rootView =  inflater.inflate(R.layout.list_layout, container, false);
+        View rootView = inflater.inflate(R.layout.list_layout, container, false);
 
         ArrayList<Events> events = new ArrayList<>();
         events.add(new Events(getString(R.string.events_name_1), getString(R.string.events_address_1), getString(R.string.events_date_1), getString(R.string.events_description_1), R.drawable.events_1));
